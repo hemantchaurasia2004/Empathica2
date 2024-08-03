@@ -2,16 +2,11 @@
 
 Welcome to our Humanised Chatbot project repository! This project aims to enhance user experience and cater to user needs using the power of Large Language Models (LLMs), particularly leveraging LPU (Large Pretrained Unsupervised) models. 
 
-## Contributors
-- Vinayak Goyal 
-- Krishna Rathore
-- Hemant Chaurasia
-- Anvaya Sharma
-- Rishabh Raunak
-
 ## Overview
 
 Our chatbot is designed for business-to-business (B2B) interactions. It incorporates advanced natural language processing techniques and technologies to provide empathetic responses, context-based query responses, and continuously improves its performance through a feedback mechanism integrated with Customer Relationship Management (CRM) systems.
+
+![Screenshot (195)](https://github.com/user-attachments/assets/e30bfbad-e32b-4d08-b382-6f4417f1052b)
 
 ## Features
 
